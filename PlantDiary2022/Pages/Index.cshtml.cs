@@ -14,6 +14,8 @@ namespace PlantDiary2022.Pages
 
         public void OnGet()
         {
+            string brand = "My Plant Diary";
+            ViewData["Brand"] = brand;
 
         }
     }
