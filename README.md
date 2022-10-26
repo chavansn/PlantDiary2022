@@ -1,6 +1,6 @@
 # **Rhythm**
 
-![Rhythm_Logo](https://github.com/snehal431/Final_Project/blob/master/Final_Project/wwwroot/images/rhythm-logo.png)
+<img class="logo" src="https://github.com/chavansn/PlantDiary2022/blob/master/PlantDiary2022/wwwroot/images/rhythm-logo.png" style="height:100;width:100;">
 
 ## Introduction
 
