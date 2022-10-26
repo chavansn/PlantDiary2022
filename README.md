@@ -1,6 +1,6 @@
 # **Rhythm**
 
-<img class="logo" src="https://github.com/chavansn/PlantDiary2022/blob/master/PlantDiary2022/wwwroot/images/rhythm-logo.png" style="height:100;width:100;"/>
+<img class="logo" src="https://github.com/chavansn/PlantDiary2022/blob/master/PlantDiary2022/wwwroot/images/rhythm-logo.png" style="height:50px;width:50px;"/>
 
 ## Introduction
 
